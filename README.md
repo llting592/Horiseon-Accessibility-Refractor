@@ -31,14 +31,11 @@ THEN I find a concise, descriptive title
 
 ## Link to Deployed Application
 
-```
+
 [Link to Deployed Webpage](https://llting592.github.io/Horiseon-Accessibility-Refractor/)
 
-```
+
 
 ## Screenshot of Mockup
 
-```
-![ScreenShot](https://github.com/llting592/Horiseon-Accessibility-Refractor/blob/main/Assets/01-html-css-git-homework-demo.png)
-
-```
+![Screenshot](https://github.com/llting592/Horiseon-Accessibility-Refractor/blob/main/Assets/01-html-css-git-homework-demo.png)
