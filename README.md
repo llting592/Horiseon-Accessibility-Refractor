@@ -39,6 +39,6 @@ https://llting592.github.io/Horiseon-Accessibility-Refractor/#search-engine-opti
 ## Screenshot of Mockup
 
 ```
-![ScreenShot](/images/01-html-css-git-homework-demo.png)
+![ScreenShot](01-html-css-git-homework-demo.png)
 
 ```
